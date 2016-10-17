@@ -29,7 +29,7 @@ Manual install::
      (use example.conf)
 
         <Plugin python>
-           ModulePath "/path/to/your/pyton/modules"
+           ModulePath "/path/to/your/python/modules"
            LogTraces true
            Interactive false
            Import "collectd_openstack_plugin"
